@@ -1,4 +1,4 @@
-# Object Oriented Programming with C++
+# Object Oriented Programming (OOP) with C++
 
 This repository contains resources and examples for learning object-oriented programming (OOP) with C++.
 
@@ -29,3 +29,17 @@ This repository contains a variety of examples that illustrate the use of OOP in
 To get started with these examples, you will need a C++ compiler and a text editor. You can use any C++ compiler that you like, such as [GCC](https://gcc.gnu.org/) or [Microsoft Visual C++](https://visualstudio.microsoft.com/). You can also use a [development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) such as [Code::Blocks](http://www.codeblocks.org/) or [Eclipse](https://www.eclipse.org/) if you prefer.
 
 Once you have a compiler and a text editor set up, you can download the examples from this repository and build and run them on your machine.
+
+## Further Reading
+
+For more information on OOP with C++, you may want to consult a good textbook or online resource. Some recommended resources include:
+
+- "The C++ Programming Language" by Bjarne Stroustrup
+- "Effective C++" by Scott Meyers
+
+## Contributions
+
+Contributions to this repository are welcome! 
+If you have an example or resource that you would like to share, please open a pull request.
+
+I hope this README file is helpful! Let me know if you have any questions or suggestions.
