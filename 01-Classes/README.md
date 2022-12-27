@@ -58,10 +58,11 @@ myDog.setAge(5);
 cout << myDog.getName() << " is " << myDog.getAge() << " years old." << endl;
 myDog.bark();
 ```
-
 This would output the following:
 
 ``` 
 Buddy is 5 years old.
 Bark! Bark!
-```
+
+``` 
+Classes are a powerful feature of C++ and are widely used in OOP. They allow you to define your own data types and provide a way to organize and structure your code in a logical and reusable way.
